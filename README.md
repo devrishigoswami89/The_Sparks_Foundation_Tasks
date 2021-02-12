@@ -6,7 +6,7 @@ This repository contains the tasks that I completed while working as an intern f
 In this internship, we were provided a total of 8 Tasks.
 
 ### Task-1 : Prediction using Supervised ML (Level - Beginner)
-*Please click on the images on right side to view my solution.* ![code_link](<div>Icons made by <a href="https://www.flaticon.com/authors/kiranshastry" title="Kiranshastry">Kiranshastry</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>)
+*Please click on the images on right side to view my solution.* ![link]()
 
 1. Predict the percentage of marks of an student based on the number of study hours.
 2. This is a simple linear regression task as it involves just 2 variables.
