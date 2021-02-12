@@ -6,7 +6,7 @@ This repository contains the tasks that I completed while working as an intern f
 In this internship, we were provided a total of 8 Tasks.
 
 ### Task-1 : Prediction using Supervised ML (Level - Beginner)
-*Please click on the images on right side to view my solution.*  ![link](/main/img/iconfinder_github_317712.png)
+*Please click on the images on right side to view my solution.*  ![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_github_317712.png
 1. Predict the percentage of marks of an student based on the number of study hours.
 2. This is a simple linear regression task as it involves just 2 variables.
 3. [Data](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv) 
