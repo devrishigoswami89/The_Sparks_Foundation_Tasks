@@ -4,7 +4,7 @@ This repository contains the tasks that I completed while working as an intern f
 - Internship Duration - 1 Month ( February 2021 - Present ).
 - Internship Type - Work from Home.
 In this internship, we were provided a total of 8 Tasks.
-
+---
 ### Task-1 : Prediction using Supervised ML (Level - Beginner)
 *Please click on the images on right side to view my solution.* &nbsp;&nbsp;&nbsp;&nbsp; [![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_github_317712.png)](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/Task_1_TSP_LinearRegression.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_youtube_317714.png)](https://youtu.be/kWVJP1It5UY)
 
@@ -14,7 +14,7 @@ In this internship, we were provided a total of 8 Tasks.
 4. You can use R, Python, SAS Enterprise Miner or any other tool.
 5. What will be predicted score if a student studies for 9.25 hrs/ day?
 
-# Task-2 : Prediction using Unsupervised ML (Level - Beginner)
+### Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 *Please click on the images on right side to view my solution.*  &nbsp;&nbsp;&nbsp;&nbsp; [![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_github_317712.png)](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/TSF_Task2.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_youtube_317714.png)](https://youtu.be/JgIdjEG9iGg)
 
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
