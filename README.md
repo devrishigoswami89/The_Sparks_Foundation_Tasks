@@ -1,8 +1,8 @@
 ## The_Sparks_Foundation_Tasks
 This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).
--Internship Category - Data Science and Business Analytics.
--Internship Duration - 1 Month ( February 2021 - Present ).
--Internship Type - Work from Home.
+- Internship Category - Data Science and Business Analytics.
+- Internship Duration - 1 Month ( February 2021 - Present ).
+- Internship Type - Work from Home.
 In this internship, we were provided a total of 8 Tasks.
 ### Task-1 : Prediction using Supervised ML (Level - Beginner)
 Please click on the images on right side to view my solution.
