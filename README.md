@@ -1,5 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;![img](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/logo_small.png)
-This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).  
+This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).&nbsp;&nbsp;&nbsp;&nbsp;![img](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/logo_small.png)  
 - Internship Category - Data Science and Business Analytics.
 - Internship Duration - 1 Month ( February 2021 - Present ).
 - Internship Type - Work from Home.
