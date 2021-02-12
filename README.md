@@ -1,4 +1,4 @@
-## The Sparks Foundation Tasks   [![img](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/logo_small.png)]
+## The Sparks Foundation Tasks   ![img](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/logo_small.png)
 This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).
 - Internship Category - Data Science and Business Analytics.
 - Internship Duration - 1 Month ( February 2021 - Present ).
