@@ -15,7 +15,7 @@ In this internship, we were provided a total of 8 Tasks.
 5. What will be predicted score if a student studies for 9.25 hrs/ day?
 
 # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
-*Please click on the images on right side to view my solution.*
+*Please click on the images on right side to view my solution.*  &nbsp;&nbsp;&nbsp;&nbsp; [![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_github_317712.png)](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/TSF_Task2.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_youtube_317714.png)](https://youtu.be/JgIdjEG9iGg)
 
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 2. Use R or Python or perform this task.
