@@ -3,7 +3,6 @@ This repository contains the tasks that I completed while working as an intern f
 - Internship Category - Data Science and Business Analytics.
 - Internship Duration - 1 Month ( February 2021 - Present ).
 - Internship Type - Work from Home.
-In this internship, we were provided a total of 8 Tasks.
 ---
 ### Task-1 : Prediction using Supervised ML (Level - Beginner)
 *Please click on the images on right side to view my solution.* &nbsp;&nbsp;&nbsp;&nbsp; [![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_github_317712.png)](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/Task_1_TSP_LinearRegression.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;[![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_youtube_317714.png)](https://youtu.be/kWVJP1It5UY)
