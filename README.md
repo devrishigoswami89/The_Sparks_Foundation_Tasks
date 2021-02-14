@@ -20,3 +20,20 @@ In this internship, we were provided a total of 8 Tasks.
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 2. Use R or Python or perform this task.
 3. [Data](https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view)
+
+### Task-3 : Exploratory Data Analysis - Retail (Level - Beginner)
+*Please click on the images on right side to view my solution.*  &nbsp;&nbsp;&nbsp;&nbsp; [![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_github_317712.png)](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/TSF_task3pbix.pbit)&nbsp;&nbsp;&nbsp;&nbsp;[![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_youtube_317714.png)](https://youtu.be/JgIdjEG9iGg)
+
+1. Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+2. As a business manager, try to find out the weak areas where you can work to make more profit. 
+3. [Data](https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view)
+
+### Task-4 : Exploratory Data Analysis - Terrorism (Level - Intermediate)
+*Please click on the images on right side to view my solution.*  &nbsp;&nbsp;&nbsp;&nbsp; [![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_github_317712.png)](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/TSF_task4.pbit)&nbsp;&nbsp;&nbsp;&nbsp;[![link](https://github.com/devrishigoswami89/The_Sparks_Foundation_Tasks/blob/main/img/iconfinder_youtube_317714.png)](https://youtu.be/JgIdjEG9iGg)
+
+1. Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’  
+2. As a security/defense analyst, try to find out the hot zone of terrorism. 
+3. [Data](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view)
+
+
+
